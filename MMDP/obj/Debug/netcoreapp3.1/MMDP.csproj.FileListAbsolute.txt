@@ -1,0 +1,15 @@
+D:\Project\C#\MMDP\MMDP\bin\Debug\netcoreapp3.1\MMDP.exe
+D:\Project\C#\MMDP\MMDP\bin\Debug\netcoreapp3.1\MMDP.deps.json
+D:\Project\C#\MMDP\MMDP\bin\Debug\netcoreapp3.1\MMDP.runtimeconfig.json
+D:\Project\C#\MMDP\MMDP\bin\Debug\netcoreapp3.1\MMDP.runtimeconfig.dev.json
+D:\Project\C#\MMDP\MMDP\bin\Debug\netcoreapp3.1\MMDP.dll
+D:\Project\C#\MMDP\MMDP\bin\Debug\netcoreapp3.1\MMDP.pdb
+D:\Project\C#\MMDP\MMDP\bin\Debug\netcoreapp3.1\CommandLine.dll
+D:\Project\C#\MMDP\MMDP\obj\Debug\netcoreapp3.1\MMDP.csprojAssemblyReference.cache
+D:\Project\C#\MMDP\MMDP\obj\Debug\netcoreapp3.1\MMDP.AssemblyInfoInputs.cache
+D:\Project\C#\MMDP\MMDP\obj\Debug\netcoreapp3.1\MMDP.AssemblyInfo.cs
+D:\Project\C#\MMDP\MMDP\obj\Debug\netcoreapp3.1\MMDP.csproj.CoreCompileInputs.cache
+D:\Project\C#\MMDP\MMDP\obj\Debug\netcoreapp3.1\MMDP.csproj.CopyComplete
+D:\Project\C#\MMDP\MMDP\obj\Debug\netcoreapp3.1\MMDP.dll
+D:\Project\C#\MMDP\MMDP\obj\Debug\netcoreapp3.1\MMDP.pdb
+D:\Project\C#\MMDP\MMDP\obj\Debug\netcoreapp3.1\MMDP.genruntimeconfig.cache

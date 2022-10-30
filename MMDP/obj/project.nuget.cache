@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "JnL8WrIr9mccZM011KIJqUunFkrudQ+zPs0xV7WJ6PsIZ2gD2EsEllRft+8y8YecqhLq8tuDCCehey/zTgF0NA==",
+  "success": true,
+  "projectFilePath": "D:\\Project\\C#\\MMDP\\MMDP\\MMDP.csproj",
+  "expectedPackageFiles": [
+    "D:\\Nuget\\.nuget\\packages\\commandlineparser\\2.9.1\\commandlineparser.2.9.1.nupkg.sha512"
+  ],
+  "logs": []
+}

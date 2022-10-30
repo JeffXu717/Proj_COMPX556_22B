@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "MMDP": {
+      "commandName": "Project",
+      "commandLineArgs": " pSolve \"D:\\Temp\\instances1.csv\" 0.1 200 10 2 -a -n 10 -w \"D:\\Temp\\result1_p_dot1.txt\""
+    }
+  }
+}
