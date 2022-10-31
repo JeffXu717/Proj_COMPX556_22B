@@ -18,34 +18,34 @@ Generate 2 distance matrices with n equal to 100, then write to file.
 ### Serial ACO Option
 - command line:  `MMDP sSolve "D:\Temp\instances.csv" 0.3 1000 20`  
 Solve first matrix with m equal to 0.3n, max iteration 1000, 20 ants.  
-MMDP sSolve [data set file] [m] [n] [number of ants]  
+MMDP sSolve [data set file] [m] [max iterations] [number of ants]  
 
 - command line:  `MMDP sSolve "D:\Temp\instances.csv" 0.3 1000 20 -n 10`  
 Solve first matrix 10 times with m equal to 0.3n, max iteration 1000, 20 ants.  
-MMDP sSolve [data set file] [m] [n] [number of ants] -n [number of executions]  
+MMDP sSolve [data set file] [m] [max iterations] [number of ants] -n [number of executions]  
 
 - command line:  `MMDP sSolve "D:\Temp\instances.csv" 0.3 1000 20 -a -n 10`  
 Solve matrices 10 times with m equal to 0.3n, max iteration 1000, 20 ants.  
-MMDP sSolve [data set file] [m] [n] [number of ants] -allMatrices -n [number of executions]  
+MMDP sSolve [data set file] [m] [max iterations] [number of ants] -allMatrices -n [number of executions]  
 
 - command line:  `MMDP sSolve "D:\Temp\instances.csv" 0.3 1000 20 -a -n 10 -w "D:\Temp\result.txt"`  
 Solve matrices 10 times with m equal to 0.3n, max iteration 1000, 20 ants. Write result to file.  
-MMDP sSolve [data set file] [m] [n] [number of ants] -allMatrices -n [number of executions] -writeTo filepath
+MMDP sSolve [data set file] [m] [max iterations] [number of ants] -allMatrices -n [number of executions] -writeTo filepath
 
 ### Parallel ACO Option
 - command line:  `MMDP pSolve "D:\Temp\instances.csv" 0.3 1000 10 2`  
 Solve first matrix with m equal to 0.3n, max iteration 1000, 2 colonies, each 10 ants.  
-MMDP pSolve [data set file] [m] [n] [number of ants] [number of colonies]
+MMDP pSolve [data set file] [m] [max iterations] [number of ants] [number of colonies]
 
 - command line:  `MMDP pSolve "D:\Temp\instances.csv" 0.3 1000 10 2 -n 10`  
 Solve first matrix 10 times with m equal to 0.3n, max iteration 1000, 2 colonies, each 10 ants.  
-MMDP sSolve [data set file] [m] [n] [number of ants] -n [number of executions] [number of colonies] -n [number of executions]  
+MMDP sSolve [data set file] [m] [max iterations] [number of ants] -n [number of executions] [number of colonies] -n [number of executions]  
 
 - command line:  `MMDP pSolve "D:\Temp\instances.csv" 0.3 1000 10 2 -a -n 10`  
 Solve matrices 10 times with m equal to 0.3n, max iteration 1000, 2 colonies, each 10 ants.
-MMDP sSolve [data set file] [m] [n] [number of ants] [number of colonies] -allMatrices -n [number of executions]  
+MMDP sSolve [data set file] [m] [max iterations] [number of ants] [number of colonies] -allMatrices -n [number of executions]  
 
 - command line:  `MMDP pSolve "D:\Temp\instances.csv" 0.3 1000 10 2 -a -n 10 -w "D:\Temp\result.txt"`  
 Solve matrices 10 times with m equal to 0.3n, max iteration 1000, 20 ants. Write result to file.
-MMDP sSolve [data set file] [m] [n] [number of ants] [number of colonies] -allMatrices -n [number of executions] -writeTo filepath
+MMDP sSolve [data set file] [m] [max iterations] [number of ants] [number of colonies] -allMatrices -n [number of executions] -writeTo filepath
 
